@@ -12,4 +12,4 @@ Let's go!
 
 ![Quang Anh Github Stats](https://github-readme-stats.vercel.app/api?username=quanganh2001&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanganh2001&compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanganh2001&compact)
